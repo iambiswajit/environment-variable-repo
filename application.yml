@@ -23,8 +23,7 @@ eureka:
       endpoints: 
         endpoint:
           uri: http://ORDER-SERVICE/order/bookOrder
- configserver:
-  url: optional:configserver:http://localhost:8888
+ 
           
           
           
